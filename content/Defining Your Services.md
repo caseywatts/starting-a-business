@@ -4,6 +4,8 @@ title: "Defining Your Services"
 
 ---
 
+After you define your services, you'll likely need: [Pricing Your Services](Pricing%20Your%20Services.md)
+
 Your first year you might "try on" a lot of services -- learning which things there is "market appetite" for, and which things you like to do. My first year I had ~30 services that I offered or got paid to do, or was considered for. It's dizzying to try and do too many, but I learned a lot about the market and about myself!
 
 Eventually most people decide to offer fewer services to specialize in. This helps you with your own focus, but it has an even stronger effect for marketing. The more specific your services are, the easier it is for people to think of you when your services are needed -- and this includes  both potential clients directly and people who would connect you to those potential clients.
