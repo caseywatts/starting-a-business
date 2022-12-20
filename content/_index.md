@@ -1,27 +1,48 @@
 ---
-title: 🪴 Quartz 3.
-enableToc: false
+
+title: "Starting a Business"
+
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Pages
+* [Getting Clients](Getting%20Clients.md)
+* [Defining Your Services](Defining%20Your%20Services.md)
+* [Pricing Your Services](Pricing%20Your%20Services.md)
+* [Legal Structures and Taxes](Legal%20Structures%20and%20Taxes.md)
+* [Invoicing Clients](Invoicing%20Clients.md)
+* [Tools](Tools.md)
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+### Terms
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Freelance vs consulting vs contracting
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Marketing → Sales
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Potential Leads → Leads → Deals → Clients
+
+### Common questions
+
+how do I start?
+
+how do I get my first clients?
+
+should I do social media, or a website?
+
+what do I do when someone asks “who have you worked with?” but I’m just getting started?
+
+Maybe I should get testimonials - what are they for and how do I get good ones?
+
+I’m not a salesperson or marketer by background - how do I even think about these?
+
+How do I set prices?
+
+
+
+
+
+
+
+
 
