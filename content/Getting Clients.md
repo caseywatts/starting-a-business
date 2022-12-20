@@ -4,6 +4,11 @@ title: "Getting Clients"
 
 ### For someone to buy your service, they go through phases
 
+```mermaid
+flowchart LR
+	Aware --> Interested --> Desire --> Action
+```
+
 AIDA
 
 Aware = Are they aware of your service?
