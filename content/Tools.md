@@ -56,3 +56,7 @@ I use Hotjar to record website browsing behavior (scrolling, mouse, etc)
 I use Affinity Designer to design web graphics for events and visuals for blog posts etc (it’s like Illustrator but not Adobe and not subscription based)
 
 I use Descript to edit videos and make subtitles and audiograms for videos
+
+I draft contracts in Google Docs, and do “Save as PDF” (to retain the doc title — much better than cmd+P)
+
+I get signatures using HelloSign (and they can sign it on their phone even with a finger-squiggle)
