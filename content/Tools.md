@@ -60,3 +60,10 @@ I use Descript to edit videos and make subtitles and audiograms for videos
 I draft contracts in Google Docs, and do “Save as PDF” (to retain the doc title — much better than cmd+P)
 
 I get signatures using HelloSign (and they can sign it on their phone even with a finger-squiggle)
+
+I based my MSA/SOW contracts on several friends’ contracts — happy to share my recent one with you directly!
+
+One MSA/SOW I bought that was really well annotated: [https://msabundle.com/](https://msabundle.com/) — it’s especially tailored for software development, so I couldn’t use it directly for my consulting, but I learned a lot from it!
+
+I also write proposals sometimes (a pre-contract “marketing” document), and I took a few tips from this template:  
+[https://jonathanstark.com/5-page-proposal-template](https://jonathanstark.com/5-page-proposal-template)
