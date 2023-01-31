@@ -8,7 +8,7 @@ Pages
 * [Getting Clients](Getting%20Clients.md)
 * [Defining Your Services](Defining%20Your%20Services.md)
 * [Pricing Your Services](Pricing%20Your%20Services.md)
-* [Legal Structures and Taxes](Legal%20Structures%20and%20Taxes.md)
+* [Taxes and Legal Structures](Taxes%20and%20Legal%20Structures.md)
 * [Invoicing Clients](Invoicing%20Clients.md)
 * [Tools](Tools.md)
 

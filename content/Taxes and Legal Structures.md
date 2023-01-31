@@ -4,9 +4,14 @@ title: "Legal Structures and Taxes"
 
 ---
 
+My favorite place to learn more about these is [the YouTube channel "All Up In Yo' Business with Attorney Aiden Durham"](https://www.youtube.com/@allupinyobiz)
+
+Any of these less-formal sources will cite and reference all of the legal sources (IRS.gov etc) -- it just really helps to have things organized in terms of what YOU are wondering / looking into in the moment (which irs.gov does NOT do so well lol)
+
+
 ### Legal/Organizational Structures
 
-Differences between Sole Proprietorship, LLC, S-Corp etc
+todo: Differences between Sole Proprietorship, LLC, S-Corp etc
 
 ### Filing Taxes + Deductions
 
@@ -42,7 +47,11 @@ To calculate my estimated taxes, I just pay whatever Intuit Quickbooks Self-Empl
 
 ### Deductions
 
-https://www.irs.gov/newsroom/qualified-business-income-deduction
+Deductions for business equipment (laptops etc) and software and travel and food etc happens on the [1040 Section C](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf).
+
+Quickbooks Self-Employed is how I keep track of these -- it knows the IRS's ~20 categories AND a bunch of common ones that go into "other", and it can generate the table of amounts you'll need for the Schedule C come tax time.
+
+There is also this other deduction QBIR: https://www.irs.gov/newsroom/qualified-business-income-deduction
 
 
 ### CRM
