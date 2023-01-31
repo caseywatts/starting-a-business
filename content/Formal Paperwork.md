@@ -116,4 +116,4 @@ should be attached to a SOW (current work expectations doc)
 
 
 ## After Formal Paperwork
-After we agree to the formal paperwork, you can work on [Getting Paid](Getting%20Paid.md)
+After we agree to the formal paperwork, you can work on [Getting Paid + Invoicing](Getting%20Paid%20+%20Invoicing.md)

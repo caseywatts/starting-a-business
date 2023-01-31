@@ -5,11 +5,14 @@ title: "Starting a Business"
 ---
 
 Pages
-* [Getting Clients](Getting%20Clients.md)
+* [Taxes and Legal Structures](Taxes%20and%20Legal%20Structures.md)
 * [Defining Your Services](Defining%20Your%20Services.md)
 * [Pricing Your Services](Pricing%20Your%20Services.md)
-* [Taxes and Legal Structures](Taxes%20and%20Legal%20Structures.md)
-* [Invoicing Clients](Invoicing%20Clients.md)
+* [Getting Clients](Getting%20Clients.md)
+* [Formal Paperwork](Formal%20Paperwork.md)
+* [Getting Paid + Invoicing](Getting%20Paid%20+%20Invoicing.md)
+* [Business Banking & Proving Income](Business%20Banking%20&%20Proving%20Income.md)
+* [Freelance Communities](Freelance%20Communities.md)
 * [Tools](Tools.md)
 
 
