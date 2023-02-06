@@ -3,7 +3,34 @@
 title: "Legal Structures and Taxes"
 
 ---
+Disclaimer: This is not financial advice; I am not your financial advisor. These are my opinions and how I approach things (and also often common opinions from lots of freelancers I know!)
 
+
+### I need an LLC, right? (no, not necessarily!)
+A lot of people think they MUST form an LLC to do side jobs. That's not true!
+
+You can already get paid for work you do even without an LLC -- you are by default considered a "**sole proprietor**".
+
+In fact, even some LLCs are considered a sole proprietorship still ("LLC taxed as a sole proprietor") if the finances aren't separated out fully. There are a lot of criteria to meet for your LLC to be a truly separate entity, to protect your personal finances (separate bank accounts with separate SSN/EIN numbers associated, clients clearly hire your company and not the individual person, the business pays you regularly as an employee (maybe with bonuses sure, but something). And that isn't all! I'm not an expert at this since I haven't done it yet myself.
+
+The courts make the final determination. The true determination of whether your LLC is a separate entity (and therefore reduces your liability) lies with the courts if/when you end up with a case. And the evaluation varies court by court. (I lost the reference I had for this -- let me know if you find a good one on this!)
+
+Forming an LLC is one ingredient for reducing, but not the only one.
+
+You might be like me -- you might like to be a sole proprietor for a bit to try things out, and only take on low-risk, low-amount contracts for a while to feel it out. If eventually you feel like continuing on longer term, and taking larger, higher-risk, longer-term contracts THEN you should definitely consider these other structures.
+
+### How can I reduce my liability then??
+These are my favorite three approaches, in order
+* Lower-risk contracts.
+	* But practically -- if you are just dipping your toes in the water and doing small low-risk contracts with people you know and trust well, and you aren't even sure if you want to do this longer-term at a larger scale -- you might not want to worry about it for a bit! 
+* Business insurance!
+	* You might also want business insurance! And in many situations it may provide more protections than an LLC (especially if it's really just you).
+	* In fact, some clients may require you have this anyway.
+	* Professional Liability ("Errors and Omissions") is the most common kind I've heard of being used/required -- there are many more types as well
+* Keeping a clear distinction between yourself and your company as an entity (LLC)
+	* Forming an LLC and separating the finances to a business bank account, and keeping a clear distinction can reduce your liability
+
+## Learning More
 My favorite place to learn more about these is [the YouTube channel "All Up In Yo' Business with Attorney Aiden Durham"](https://www.youtube.com/@allupinyobiz)
 
 Any of these less-formal sources will cite and reference all of the legal sources (IRS.gov etc) -- it just really helps to have things organized in terms of what YOU are wondering / looking into in the moment (which irs.gov does NOT do so well lol)
