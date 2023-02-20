@@ -27,6 +27,7 @@ These are my favorite three approaches, in order
 	* You might also want business insurance! And in many situations it may provide more protections than an LLC (especially if it's really just you).
 	* In fact, some clients may require you have this anyway.
 	* Professional Liability ("Errors and Omissions") is the most common kind I've heard of being used/required -- there are many more types as well
+	* The most commonly used/recommended company for business insurance (in the US) is [Hiscox](https://www.hiscox.com/small-business-insurance)
 * Keeping a clear distinction between yourself and your company as an entity (LLC)
 	* Forming an LLC and separating the finances to a business bank account, and keeping a clear distinction can reduce your liability
 

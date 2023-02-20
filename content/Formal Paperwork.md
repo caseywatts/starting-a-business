@@ -46,6 +46,9 @@ similar to the pre-posal, but with prices?
 
 (idk why Andrea doesn’t call the pre-posal a proposal, all the clients seem to lol)
 
+Example proposals:
+- [Casey's Modified Jonathan Stark-style proposal](https://docs.google.com/document/d/13k7a1BRiSG-rcS11VBOK9iMpjy7KXdIaXGFRyBFH-vk/edit)
+
 # Expectation Setting / Legal
 
 ## Expectations for Relationship
