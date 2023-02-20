@@ -4,6 +4,14 @@ title: "Formal Paperwork"
 
 ---
 
+## Example documents
+- Proposal
+	- [Casey's Modified Jonathan Stark-style proposal](https://docs.google.com/document/d/13k7a1BRiSG-rcS11VBOK9iMpjy7KXdIaXGFRyBFH-vk/edit)
+	- [2022 Happy and Effective Proposal](https://docs.google.com/document/d/1Uv_nNMLwcpdgs9rgI9-kTgnkCssIY6bfbVyURF0Mtkk/edit#heading=h.5owwfy56jwrr)
+- MSA/SOW
+	- [2022 Happy and Effective MSA](https://docs.google.com/document/d/1UI_A5e_8gkjQqvGEBcb3yehrVYIiBmGuKXVQaeUs01M/edit?usp=sharing)
+	- [2022 Happy and Effective SOW](https://docs.google.com/document/d/1WGxZULbBWvr4zitEC5SFbhZ6HpX3YOpIfkC9sV_kuBY/edit?usp=sharing)
+
 ## Do we need formal paperwork?
 I usually (80% of the time) get clients to sign a contract (MSA/SOW) with rates and all. It's best practice to set expectations clearly like this, especially for larger clients and longer engagements.
 
@@ -45,9 +53,6 @@ emailed + attached
 similar to the pre-posal, but with prices?
 
 (idk why Andrea doesn’t call the pre-posal a proposal, all the clients seem to lol)
-
-Example proposals:
-- [Casey's Modified Jonathan Stark-style proposal](https://docs.google.com/document/d/13k7a1BRiSG-rcS11VBOK9iMpjy7KXdIaXGFRyBFH-vk/edit)
 
 # Expectation Setting / Legal
 
