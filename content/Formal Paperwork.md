@@ -7,7 +7,7 @@ title: "Formal Paperwork"
 ## Example documents
 - Proposal
 	- [Casey's Modified Jonathan Stark-style proposal](https://docs.google.com/document/d/13k7a1BRiSG-rcS11VBOK9iMpjy7KXdIaXGFRyBFH-vk/edit)
-	- [2022 Happy and Effective Proposal](https://docs.google.com/document/d/1Uv_nNMLwcpdgs9rgI9-kTgnkCssIY6bfbVyURF0Mtkk/edit#heading=h.5owwfy56jwrr)
+	- [2022 Happy and Effective Proposal (EM Coaching)](https://docs.google.com/document/d/1ENI6LJHsf_xvCP-oUQzPQ4ptvcPhF9NvDLOXuy-XLCA/edit#heading=h.fxzaqike3jbz)
 - MSA/SOW
 	- [2022 Happy and Effective MSA](https://docs.google.com/document/d/1UI_A5e_8gkjQqvGEBcb3yehrVYIiBmGuKXVQaeUs01M/edit?usp=sharing)
 	- [2022 Happy and Effective SOW](https://docs.google.com/document/d/1WGxZULbBWvr4zitEC5SFbhZ6HpX3YOpIfkC9sV_kuBY/edit?usp=sharing)
